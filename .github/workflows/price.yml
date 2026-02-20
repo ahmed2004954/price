@@ -3,7 +3,7 @@ name: Price to Telegram
 on:
   workflow_dispatch:
   schedule:
-    # كل 6 ساعات (UTC). مصر = UTC+2 غالبًا، فخلي بالك من التوقيت
+    
     - cron: "*/5 * * * *"
 
 permissions:
