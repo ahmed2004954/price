@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # كل 6 ساعات (UTC). مصر = UTC+2 غالبًا، فخلي بالك من التوقيت
-    - cron: "0 */6 * * *"
+    - cron: "*/5 * * * *"
 
 permissions:
   contents: write
