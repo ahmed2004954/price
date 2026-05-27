@@ -6,7 +6,7 @@ import urllib.parse
 import urllib.request
 
 SOURCE_URL = "https://www.elmorshdledwagn.com/"
-BOT_TOKEN = "8508240829:AAGjQ5YV1nX92xDsNwKPhAZeymUCSSt0ZW0"
+BOT_TOKEN = "7819078664:AAHD08iWRyk3SmXCFu6-PyJSyzQW1ys0GHk"
 CHAT_ID = "1052952229"
 
 SOURCE_HEADERS = {
